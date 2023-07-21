@@ -1,7 +1,6 @@
 # brain fuck recreation
 ```python
 print(__doc__ := """
-
     ╔═══════════════════════════════════════════════════════╗
     ║ char ║ description                                    ║
     ║ ═════════════════════════════════════════════════     ║
@@ -16,6 +15,5 @@ print(__doc__ := """
     ╚═══════════════════════════════════════════════════════╝
 
     If the pointer you used for the loop doesnt become 0, the for loop will go on forever.
-
 """)
 ```
